@@ -12,7 +12,7 @@
     "chalk.js": "0.0.5",
     "discord.js": "^11.5.1",
     "fs": "0.0.1-security",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "quickdb": "^1.0.5"
   }
 }
